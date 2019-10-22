@@ -14,8 +14,8 @@
  
  아래 명령을 통해 프로그램 수행
  
- --
+ 
  python KSM_PDFMerger.py
- --
+ 
  
  output폴더에 병합 결과 PDF가 생성됩니다.
